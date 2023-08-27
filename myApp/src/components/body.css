@@ -1,0 +1,37 @@
+.zee{
+    width: 80%;
+    height: 100%;
+    display: block;
+    margin: auto;
+    margin-top: 20px;
+    
+}
+.img{
+object-fit: cover;
+height: 500px;
+width: 100%;
+
+
+
+}
+
+.h5{
+color: aliceblue;
+font-size: 30px;
+}
+.para{
+color: aliceblue;
+font-size: 20px;
+}
+.btn{
+    color: antiquewhite;
+    font-size: 20px;
+}
+.card-div{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+   align-items: center; 
+   gap: 70px;
+   flex-wrap: wrap;
+}
